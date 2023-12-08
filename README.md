@@ -2,16 +2,17 @@
 
 This repository is the official implementation of **Deep Model Predictive Control For Visual Servoing** which was accepted at [CoRL-2020](https://www.robot-learning.org/program/accepted-papers).
 
-<font size="+1">[Paper](https://corlconf.github.io/corl2020/paper_448/) | [Project Page](https://robotics.iiit.ac.in/publications/2020/deep-mpc-for-visual-servoing/project-page.html)</font>
+<font size="+1">[Paper](https://arxiv.org/abs/2105.00788)</font>
 
 ## Citation
 
 ```
-@article{pushkalCORL,
-  Title = {Deep Model Predictive Control For Visual Servoing},
-  Author={P. Katara and Y V S. Harish and H. Pandya and A. Gupta and A. Sanchawala and G. Kumar and K. M. Krishna and B. Bhowmick},
-  Journal={Accepted at 4th Annual Conference on Robot Learning, CoRL 2020},
-  year={2020},
-  URL = {https://corlconf.github.io/corl2020/paper_448/}
+@misc{katara2021deepmpcvs,
+      title={DeepMPCVS: Deep Model Predictive Control for Visual Servoing}, 
+      author={Pushkal Katara and Y V S Harish and Harit Pandya and Abhinav Gupta and Aadil Mehdi Sanchawala and Gourav Kumar and Brojeshwar Bhowmick and Madhava Krishna K},
+      year={2021},
+      eprint={2105.00788},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO}
 }
 ```
